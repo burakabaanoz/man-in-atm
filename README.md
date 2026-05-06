@@ -12,8 +12,8 @@
 
 | ATM Interior & Diegetic UI | Interaction & Feedback |
 |:---:|:---:|
-| ![Interior Placeholder](https://via.placeholder.com/400x225?text=ATM+Interior+View) | ![Feedback Placeholder](https://via.placeholder.com/400x225?text=Interaction+Outline+Effect) |
-| ![Screenshot](Screenshots/screenshot1.png)| ![Screenshot](Screenshots/screenshot2.png)  ![Screenshot](Screenshots/screenshot3.png)|
+| ![Interior Placeholder](Screenshots/screenshot1.jpeg) | ![Feedback Placeholder](Screenshots/screenshot2.jpeg) |
+| *The player's POV inside the machine.* | *Visual cues: Outline shaders and crosshair states.* |
 
 ---
 
